@@ -1,10 +1,10 @@
 import React from "react";
 
 const icons = [
-  {
-    image: "/svgIcon/facebook.svg",
-    link: "https://www.facebook.com/",
-  },
+  // {
+  //   image: "/svgIcon/facebook.svg",
+  //   link: "https://www.facebook.com/",
+  // },
   {
     image: "/svgIcon/linkedIn.svg",
     link: "https://www.linkedin.com/in/samritakhurana/",
@@ -17,10 +17,10 @@ const icons = [
     image: "/svgIcon/gmail.svg",
     link: "mailto:khurana.samrita@gmail.com",
   },
-  {
-    image: "/svgIcon/instagram.svg",
-    link: "https://www.instagram.com/samritakhurana_/",
-  },
+  // {
+  //   image: "/svgIcon/instagram.svg",
+  //   link: "https://www.instagram.com/samritakhurana_/",
+  // },
 ];
 export const Contact = () => {
   return (
