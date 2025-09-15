@@ -4,14 +4,14 @@ import { Timeline } from "./ui/Timeline";
 // 1) Your raw data
 const rawTimeline = [
   {
-    company: "AI HereWeGot",
-    title: "Project Leader | Software Engineering Intern",
-    date: "05/15/2025 – Present",
+    company: "Hewlett Packard",
+    title: "Software Development Intern",
+    date: "June 2025 - August 2025",
     description: [
-      "Lead a team of six engineers to architect and deploy a scalable, multilingual AI chatbot and voice-call agent using Python, PyTorch, FastAPI, Docker, OpenAI API, and Twilio—reducing average response time by 40% and boosting negotiation success rates by 30%.",
-      "Trained and customized neural voice cloning to serve customers in their own voice, increasing user engagement by 25%.",
-      "Managed end-to-end CI/CD workflows and containerized microservices.",
-      "Generated context-aware images based on users’ descriptions.",
+      "•	Designed and implemented a retrieval-augmented generation (RAG) pipeline with OpenAI embeddings and Elasticsearch, improving search relevance by ~35% while reducing average query latency from 220ms to 90ms.",
+      "•	Built Dockerized Python microservices to automate ingestion of 2,000+ daily documents into AWS S3, keeping data fresh and extending assistant query coverage by 45%. ",
+      "•	Prototyped a conversational AI assistant with database connectors and NLP pipelines, enabling employees to quickly find resources and leading to a 25% increase in engagement and a 20% drop in support tickets. ",
+      "•	Shadowed senior developers to explore performance profiling and contributed minor UI bug fixes.",
     ],
   },
   {
