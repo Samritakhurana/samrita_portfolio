@@ -15,13 +15,13 @@ const rawTimeline = [
     ],
   },
   {
-    company: "SocWeLab – Georgia Institute of Technology",
-    title: "Research Assistant",
-    date: "03/01/2025 – Present",
+    company: "Middlebrook Hall, University of Minnesota",
+    title: "Office Assistant (OA)",
+    date: "September 2024 – Present",
     description: [
-      "Developed and implemented quantitative bias metrics such as odds ratio, demographic parity, or equal opportunity, to analyze bias and fairness in large language models (LLMs) applied to mental health counseling.",
-      "Conducted a comparative analysis of advanced LLMs such as LLaMa 3.3, GPT 4.0, Claude, Gemini, Mistral, OpenBioLLM, and LLaMA 3 Instruct, with the CounselingQA dataset to assess disparities.",
-      "Combined statistical bias measures with qualitative expert assessments to mitigate model bias in mental health applications.",
+      "•	Serve as the first point of contact at a 24/7 residence hall desk, supporting over 500+ residents with inquiries, key checkouts, guest access, and campus referrals.",
+      "•	Handle administrative operations including mail distribution, inventory tracking, and accurate use of internal systems and security protocols.",
+      "•	Commended for reliability and professionalism, maintaining a 95%+ resident satisfaction rating during active shifts.",
     ],
   },
   {
