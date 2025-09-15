@@ -58,7 +58,7 @@ export const About = () => {
               className="pt-4"
             >
               <a
-                href="https://drive.google.com/file/d/1bRTq79x4GKe91PrT4_Y5HAJYsngCnwUi/view?usp=sharing"
+                href="https://drive.google.com/file/d/1aVyFsvY4jwAHb-iD8jvAsgMRdGBOyoBU/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 design-button group"
