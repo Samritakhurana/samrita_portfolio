@@ -56,7 +56,7 @@ const skills = [
   },
   {
     img: "/image/artificial-intelligence.png",
-    title: "AI/ Machine Learning",
+    title: "FastAPI",
   },
 ];
 const tiltCardProps = {
