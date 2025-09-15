@@ -5,7 +5,7 @@ export const projectsData = [
     title: "AI Chatbot Platform",
     description:
       "A sophisticated multilingual AI chatbot with voice capabilities built using Python, PyTorch, and FastAPI. Features neural voice cloning and reduces response time by 40%.",
-    image: "/My-Portfolio/image/artificial-intelligence.png",
+    image: "/image/artificial-intelligence.png",
     technologies: [
       "Python",
       "PyTorch",
@@ -25,7 +25,7 @@ export const projectsData = [
     title: "ASL Learning Mobile App",
     description:
       "Google-sponsored mobile application for hearing parents to learn ASL. Built with Unity and C# featuring 250+ vocabulary items and improved sign detection accuracy by 30%.",
-    image: "/My-Portfolio/image/artificial-intelligence.png",
+    image: "/image/artificial-intelligence.png",
     technologies: [
       "C#",
       "Unity",
@@ -44,7 +44,7 @@ export const projectsData = [
     title: "Legacy System Modernization",
     description:
       "Modernized legacy RPG AS400 systems into Java-based web applications using Spring Boot. Improved performance and maintainability by 65% with clean code practices.",
-    image: "/My-Portfolio/image/artificial-intelligence.png",
+    image: "/image/artificial-intelligence.png",
     technologies: [
       "Java",
       "Spring Boot",
@@ -64,7 +64,7 @@ export const projectsData = [
     title: "LLM Bias Analysis Tool",
     description:
       "Research tool for analyzing bias in large language models applied to mental health counseling. Implements quantitative metrics and comparative analysis across multiple LLMs.",
-    image: "/My-Portfolio/image/artificial-intelligence.png",
+    image: "/image/artificial-intelligence.png",
     technologies: [
       "Python",
       "Machine Learning",
@@ -84,7 +84,7 @@ export const projectsData = [
     title: "Portfolio Website",
     description:
       "A modern, responsive portfolio website built with React, Vite, and Tailwind CSS. Features dark mode, smooth animations, and optimized performance.",
-    image: "/My-Portfolio/image/artificial-intelligence.png",
+    image: "/image/artificial-intelligence.png",
     technologies: [
       "React",
       "Vite",
