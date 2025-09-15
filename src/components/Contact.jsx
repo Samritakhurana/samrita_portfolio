@@ -2,23 +2,23 @@ import React from "react";
 
 const icons = [
   {
-    image: "/My-Portfolio/svgIcon/facebook.svg",
+    image: "/svgIcon/facebook.svg",
     link: "https://www.facebook.com/",
   },
   {
-    image: "/My-Portfolio/svgIcon/linkedIn.svg",
+    image: "/svgIcon/linkedIn.svg",
     link: "https://www.linkedin.com/in/samritakhurana/",
   },
   {
-    image: "/My-Portfolio/svgIcon/gitHub.svg",
+    image: "/svgIcon/gitHub.svg",
     link: "https://github.com/Samritakhurana",
   },
   {
-    image: "/My-Portfolio/svgIcon/gmail.svg",
+    image: "/svgIcon/gmail.svg",
     link: "mailto:khurana.samrita@gmail.com",
   },
   {
-    image: "/My-Portfolio/svgIcon/instagram.svg",
+    image: "/svgIcon/instagram.svg",
     link: "https://www.instagram.com/samritakhurana_/",
   },
 ];

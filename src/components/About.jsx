@@ -81,7 +81,7 @@ export const About = () => {
 
           <motion.div {...slideInRight} className="flex justify-center">
             <img
-              src="/My-Portfolio/image/samrita.jpeg"
+              src="/image/samrita.jpeg"
               alt="My profile"
               className="ml-12 mt-12 h-auto w-80 rounded-sm card-hover"
             />
