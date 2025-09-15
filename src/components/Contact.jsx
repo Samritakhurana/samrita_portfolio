@@ -14,12 +14,12 @@ const icons = [
     name: "GitHub",
     color: "hover:bg-gray-700",
   },
-  {
-    image: "/svgIcon/gmail.svg",
-    link: "mailto:khurana.samrita@gmail.com",
-    name: "Email",
-    color: "hover:bg-red-500",
-  },
+  // {
+  //   image: "/svgIcon/gmail.svg",
+  //   link: "mailto:khurana.samrita@gmail.com",
+  //   name: "Email",
+  //   color: "hover:bg-red-500",
+  // },
 ];
 
 export const Contact = () => {
