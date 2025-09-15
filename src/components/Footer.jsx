@@ -6,8 +6,7 @@ export const Footer = () => {
     <>
       <div className="relative w-full py-auto bg-[#b63c4a] dark:bg-[#3A1078] ">
         <p className=" py-4 px-8 text-gray-300 text-sm">
-          &copy; {new Date().getFullYear()} Design by Samrita Khurana. All rights
-          reserved
+          &copy; {new Date().getFullYear()}
         </p>
         <a href="#home" className="absolute right-8 bottom-10">
           <ArrowUp

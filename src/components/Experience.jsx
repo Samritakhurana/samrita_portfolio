@@ -37,8 +37,8 @@ const rawTimeline = [
     ],
   },
   {
-    company: "Envision, 4th Place @Empower Hacks 2.0",
-    title: "Virtual Hackathon",
+    company: "Virtual Hackathon",
+    title: "Envision, 4th Place @Empower Hacks 2.0",
     date: "July 26 – August 2, 2024",
     description: [
       "Led the end-to-end development of Envision, a web platform designed to support international students through the application process, using HTML5, CSS3, and JavaScript.",
@@ -75,7 +75,7 @@ export const Experience = () => {
     <section id="experience" className="px-5 py-28 mb-18 relative">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-[36px] md:text-5xl text-main text-center font-semibold">
-          Work Experience
+          Work Experience & Projects
         </h2>
 
         <div className="relative w-full overflow-clip">
